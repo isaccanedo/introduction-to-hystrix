@@ -1,6 +1,6 @@
 ## Introdução ao Hystrix
 
-# 1. Visão Geral
+# 1. Introdução
 Um sistema distribuído típico consiste em muitos serviços colaborando juntos.
 
 Esses serviços estão sujeitos a falhas ou atrasos nas respostas. Se um serviço falhar, pode afetar outros serviços, afetando o desempenho e, possivelmente, tornando outras partes do aplicativo inacessíveis ou, na pior das hipóteses, derrubar todo o aplicativo.
