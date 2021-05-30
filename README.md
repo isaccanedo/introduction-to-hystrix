@@ -53,7 +53,7 @@ Para usar Hystrix em projetos Maven, precisamos ter a dependência hystrix-core 
 </dependency>
 ```
 
-A versão mais recente sempre pode ser encontrada aqui:
+A versão mais recente, pode ser encontrada aqui:
 https://search.maven.org/classic/#search%7Cga%7C1%7Ca%3A%22rxjava-core%22
 
 ```
